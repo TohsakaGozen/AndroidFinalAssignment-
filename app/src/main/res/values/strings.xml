@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">个人书籍借出系统</string>
+    <string name="task">公告栏</string>
+    <string name="memo">备忘录</string>
+    <string name="report">图书还入</string>
+    <string name="query">查询已还图书</string>
+    <string name="clickAndWrite">点击此处输入文字</string>
+</resources>
